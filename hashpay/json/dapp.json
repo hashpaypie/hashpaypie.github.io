@@ -1,7 +1,7 @@
 {
     "dapps": [{
         "name": "DeFi Era",
-        "url": "https://defiear.gitee.io/#/index",
+        "url": "http://defiear.gitee.io/#/index",
         "des": "DeFi Era",
         "logo": "http://hashpay.gitee.io/hashpay/imgs/dapp/logo/defieraLogo.png"
     }],
