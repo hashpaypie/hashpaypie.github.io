@@ -1,0 +1,6 @@
+{
+    "nodeUrl": {
+        "eth": "http://bravo.daison.com.cn:3000",
+        "lm": "http://alpha.daison.com.cn:3000"
+    }
+}
