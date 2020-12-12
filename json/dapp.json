@@ -6,13 +6,13 @@
         "logo": "http://hashpay.gitee.io/hashpay/imgs/dapp/logo/defieraLogo.png"
     }],
     "banners": [{
-        "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/banner/1.jpg",
+        "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/banner/banner_1217_1.jpg",
         "url": ""
     },{
-        "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/banner/2.jpg",
+        "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/banner/banner_1217_2.jpg",
         "url": ""
     },{
-        "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/banner/3.jpg",
+        "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/banner/banner_1217_3.jpg",
         "url": ""
     }]
 }
