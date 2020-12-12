@@ -1,5 +1,7 @@
 {
     "version": "1.0.8",
-    "content": "1.修复了转账功能;\n2.优化了前端与部分手机系统的兼容问题;\n3.解决了一些已知问题。",
+    "content": "关于哈希派钱包（Hashpay Wallet）1.0.8版本上线的公告\n\n哈希派钱包是一款支持多链的去中心化通用数字钱包，1.0.8版本优先支持基于Ethereum和Boundary Network技术底层派生的资产和DApp,哈希派上线之际将同步上线首个基于Boundary Network的DApp：DeFi Era！\n\n
+哈希派钱包未来将逐步融合数字资产管理、交易、金融服务、行情资讯、权限管理、DApp分发等多种功能,不断积极探索区块链领域创新应用和前沿技术，致力于成为用户安全、易用、可信赖的数字货币资产管理钱包!
+\n\n2020.12.12",
     "url": "https://dtttesttt.oss-cn-shenzhen.aliyuncs.com/app/dfpro_latest.apk"
 }
