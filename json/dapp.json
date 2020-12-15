@@ -4,12 +4,7 @@
         "url": "http://defiera.gitee.io/#/index",
         "des": "一个公平、智能的互助系统",
         "logo": "http://hashpay.gitee.io/hashpay/imgs/dapp/logo/defieraLogo.png"
-    },{
-        "name": "Lucky Charma",
-        "url": "http://hashpay.gitee.io/hashpay/dapps/luckycharms/index.html",
-        "des": "一款区块链上的幸运抽奖回馈游戏",
-        "logo": "http://hashpay.gitee.io/hashpay/imgs/dapp/logo/luckywin.png"
-    }],
+    },],
     "banners": [{
         "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/banner/1.jpg",
         "url": ""
