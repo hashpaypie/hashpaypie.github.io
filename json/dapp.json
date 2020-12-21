@@ -11,13 +11,13 @@
         "logo": "http://hashpay.gitee.io/hashpay/imgs/dapp/logo/luckywin.png"
     }],
     "banners": [{
-        "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/Rotation01.jpg",
+        "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/01.jpg",
         "url": ""
     },{
-        "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/Rotation02.jpg",
+        "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/02.jpg",
         "url": ""
     },{
-        "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/Rotation03.jpg",
+        "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/03.jpg",
         "url": ""
     }]
 }
