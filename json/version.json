@@ -1,6 +1,6 @@
 {
-	"version": "1.0.9",
-	"content": "新增下载分享功能",
+	"version": "2.0.0",
+	"content": "1.Logo升级;\n2.发现页面UI优化。",
 	"url": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/app/hashpay.apk",
 	"downloadPageUrl":"http://hashpay.gitee.io/hashpay/static/download/index.html"
 }
