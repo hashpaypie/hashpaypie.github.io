@@ -9,6 +9,11 @@
         "url": "http://hashpay.gitee.io/hashpay/dapps/luckycharms/index.html",
         "des": "一款区块链上的幸运抽奖回馈游戏",
         "logo": "http://hashpay.gitee.io/hashpay/imgs/dapp/logo/luckywin.png"
+    },{
+        "name": "Free Cash",
+        "url": "http://freecash.gitee.io/",
+        "des": "Free Cash（自由金流）是一个去中心化的财务（DeFi）分配系统",
+        "logo": "http://hashpay.gitee.io/hashpay/imgs/dapp/logo/freecash.png"
     }],
     "banners": [{
         "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/banner/01.jpg",
