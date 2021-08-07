@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.dd6ba176.chunk.css",
-    "main.js": "./static/js/main.b9ed0bcb.chunk.js",
-    "main.js.map": "./static/js/main.b9ed0bcb.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.06705d2f.js",
-    "runtime-main.js.map": "./static/js/runtime-main.06705d2f.js.map",
-    "static/css/2.9ba0be0e.chunk.css": "./static/css/2.9ba0be0e.chunk.css",
-    "static/js/2.e8efe27f.chunk.js": "./static/js/2.e8efe27f.chunk.js",
-    "static/js/2.e8efe27f.chunk.js.map": "./static/js/2.e8efe27f.chunk.js.map",
-    "static/js/3.9dd9ca1a.chunk.js": "./static/js/3.9dd9ca1a.chunk.js",
-    "static/js/3.9dd9ca1a.chunk.js.map": "./static/js/3.9dd9ca1a.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/2.9ba0be0e.chunk.css.map": "./static/css/2.9ba0be0e.chunk.css.map",
-    "static/css/main.dd6ba176.chunk.css.map": "./static/css/main.dd6ba176.chunk.css.map",
-    "static/js/2.e8efe27f.chunk.js.LICENSE.txt": "./static/js/2.e8efe27f.chunk.js.LICENSE.txt"
+    "main.css": "./dapps/bridge/static/css/main.dd6ba176.chunk.css",
+    "main.js": "./dapps/bridge/static/js/main.2eaf1346.chunk.js",
+    "main.js.map": "./dapps/bridge/static/js/main.2eaf1346.chunk.js.map",
+    "runtime-main.js": "./dapps/bridge/static/js/runtime-main.93da1078.js",
+    "runtime-main.js.map": "./dapps/bridge/static/js/runtime-main.93da1078.js.map",
+    "static/css/2.9ba0be0e.chunk.css": "./dapps/bridge/static/css/2.9ba0be0e.chunk.css",
+    "static/js/2.3e94f30a.chunk.js": "./dapps/bridge/static/js/2.3e94f30a.chunk.js",
+    "static/js/2.3e94f30a.chunk.js.map": "./dapps/bridge/static/js/2.3e94f30a.chunk.js.map",
+    "static/js/3.9dd9ca1a.chunk.js": "./dapps/bridge/static/js/3.9dd9ca1a.chunk.js",
+    "static/js/3.9dd9ca1a.chunk.js.map": "./dapps/bridge/static/js/3.9dd9ca1a.chunk.js.map",
+    "index.html": "./dapps/bridge/index.html",
+    "static/css/2.9ba0be0e.chunk.css.map": "./dapps/bridge/static/css/2.9ba0be0e.chunk.css.map",
+    "static/css/main.dd6ba176.chunk.css.map": "./dapps/bridge/static/css/main.dd6ba176.chunk.css.map",
+    "static/js/2.3e94f30a.chunk.js.LICENSE.txt": "./dapps/bridge/static/js/2.3e94f30a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.06705d2f.js",
+    "static/js/runtime-main.93da1078.js",
     "static/css/2.9ba0be0e.chunk.css",
-    "static/js/2.e8efe27f.chunk.js",
+    "static/js/2.3e94f30a.chunk.js",
     "static/css/main.dd6ba176.chunk.css",
-    "static/js/main.b9ed0bcb.chunk.js"
+    "static/js/main.2eaf1346.chunk.js"
   ]
 }
