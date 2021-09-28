@@ -11,9 +11,14 @@
         "logo": "http://hashpay.gitee.io/hashpay/imgs/dapp/logo/luckywin.png"
     },{
         "name": "Free Cash",
-        "url": "http://freecash.gitee.io/",
+        "url": "",
         "des": "一个去中心化的财务（DeFi）分配系统",
         "logo": "http://hashpay.gitee.io/hashpay/imgs/dapp/logo/freecash.png"
+    },{
+        "name": "Boundary network Token",
+        "url": "http://hashpay.gitee.io/hashpay/dapps/boundarynetworktoken/index.html",
+        "des": "将DT映射至火币(HECO)链进行交易",
+        "logo": "http://hashpay.gitee.io/hashpay/imgs/dapp/logo/bnt.png"
     }],
     "banners": [{
         "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/banner/01.jpg",
