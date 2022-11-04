@@ -1,6 +1,6 @@
 {
-	"version": "4.0.4",
-	"content": "1.代币管理功能调整\n2.相关ui界面优化\n3.已知bug修复",
+	"version": "4.0.7",
+	"content": "1.首页金额显示优化\n2.导入账户列表余额优化\n3.其他界面优化等",
 	"url": "https://hashpay.pro/mobileterminal/hashpay_latest.apk",
 	"downloadPageUrl":"https://hashpay.pro"
 }
