@@ -1,6 +1,6 @@
 {
-	"version": "4.0.7",
-	"content": "1.首页金额显示优化\n2.导入账户列表余额优化\n3.其他界面优化等",
+	"version": "4.0.9",
+	"content": "1.UI优化\n2.功能优化",
 	"url": "https://hashpay.pro/mobileterminal/hashpay_latest.apk",
 	"downloadPageUrl":"https://hashpay.pro"
 }
