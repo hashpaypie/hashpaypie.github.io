@@ -1,6 +1,6 @@
 {
-	"version": "4.1.0",
-	"content": "1.助记词版本优化\n2.UI优化\n3.更新后，部分用户因版本问题将无法正常导入，请做好助记词和私钥的备份",
+	"version": "4.1.1",
+	"content": "1.UI优化\n2.相关bug修复",
 	"url": "https://hashpay.pro/mobileterminal/hashpay_latest.apk",
 	"downloadPageUrl":"https://hashpay.pro"
 }
