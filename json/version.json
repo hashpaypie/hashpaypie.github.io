@@ -1,6 +1,6 @@
 {
-	"version": "4.2.1",
-	"content": "1.首页新增ai聊天模块(限时免费使用)\n2.账号模块交互优化\n3.其他已知bug修复",
+	"version": "4.2.2",
+	"content": "1.首页NFT白屏问题优化\n2.部分ui优化",
 	"url": "https://hashpay.pro/mobileterminal/hashpay_latest.apk",
 	"downloadPageUrl":"https://hashpay.pro"
 }
