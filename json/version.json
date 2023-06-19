@@ -1,6 +1,6 @@
 {
-	"version": "4.2.2",
-	"content": "1.首页NFT白屏问题优化\n2.部分ui优化",
+	"version": "4.2.3",
+	"content": "修复切换自定义节点软件白屏的问题",
 	"url": "https://hashpay.pro/mobileterminal/hashpay_latest.apk",
 	"downloadPageUrl":"https://hashpay.pro"
 }
