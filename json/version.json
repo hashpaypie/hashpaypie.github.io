@@ -1,6 +1,6 @@
 {
-	"version": "4.2.4",
-	"content": " 1.ui优化\n 2.账号选择页面，新增搜索功能\n 3.dapp授权相关弹窗优化",
+	"version": "4.2.5",
+	"content": " 1.ui优化\n 2.修复已知BUG",
 	"url": "https://hashpay.pro/mobileterminal/hashpay_latest.apk",
 	"downloadPageUrl":"https://hashpay.pro"
 }
