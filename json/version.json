@@ -1,6 +1,6 @@
 {
-	"version": "4.2.4",
-	"content": " 1.ui优化\n 2.修复已知BUG",
+	"version": "4.2.6",
+	"content": " 修复首页代币资产显示异常等问题\n ",
 	"url": "https://hashpay.pro/mobileterminal/hashpay_latest.apk",
 	"downloadPageUrl":"https://hashpay.pro"
 }
