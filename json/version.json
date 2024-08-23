@@ -1,6 +1,6 @@
 {
 	"version": "4.2.7",
-	"content": " 1.地址簿，新增本地钱包选择。\n2.转账手续费界面ui优化。\n3.自定义链，增加修改删除。\n4.其他相关界面优化 ",
+	"content": "1.地址簿，新增本地钱包选择。\n2.转账手续费界面ui优化。\n3.自定义链，增加修改删除。\n4.其他相关界面优化 ",
 	"url": "https://hashpay.pro/mobileterminal/hashpay_latest.apk",
 	"downloadPageUrl":"https://hashpay.pro"
 }
