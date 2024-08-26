@@ -1,6 +1,6 @@
 {
-	"version": "4.2.6",
-	"content": " 修复首页代币资产显示异常等问题\n .",
+	"version": "4.2.7",
+	"content": "1.地址簿，新增本地钱包选择。\n2.转账手续费界面ui优化。\n3.自定义链，增加修改删除。\n4.其他相关界面优化",
 	"url": "",
 	"downloadPageUrl":"https://apps.apple.com/us/app/6472152170"
 }
